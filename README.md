@@ -1,1 +1,1 @@
-# learning-curve
+Learning Curve
